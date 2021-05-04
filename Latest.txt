@@ -1,4 +1,4 @@
-alpha
+release
 048
 https://github.com/dkfans/keeperfx/releases/download/v2154/keeperfx_0_4_8_complete.7z
 049
