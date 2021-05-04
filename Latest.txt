@@ -1,7 +1,18 @@
+alpha
 048
-http://127.0.0.1:8000/keeperfx_0_4_8_complete.7z
+https://github.com/dkfans/keeperfx/releases/download/v2154/keeperfx_0_4_8_complete.7z
 049
 https://keeperfx-loobinex.keeperklan.com/alphabuilds/keeperfx_0_4_9_alpha_2215.7z
 0492224
 https://keeperfx-loobinex.keeperklan.com/alphabuilds/fx_alpha_2224_from_2215.zip
+music
+https://github.com/eddebaby/keeperfx/raw/master/music_pt1.zip
+048
+http://127.0.0.1:8000/keeperfx_0_4_8_complete.7z
+049
+http://127.0.0.1:8000/keeperfx_0_4_9_alpha_2215.7z
+0492224
+http://127.0.0.1:8000/fx_alpha_2224_from_2215.zip
+music
+http://127.0.0.1:8000/KeeperFXMusic.zip
 
