@@ -1,3 +1,7 @@
 048
 http://127.0.0.1:8000/keeperfx_0_4_8_complete.7z
+049
+https://keeperfx-loobinex.keeperklan.com/alphabuilds/keeperfx_0_4_9_alpha_2215.7z
+0492224
+https://keeperfx-loobinex.keeperklan.com/alphabuilds/fx_alpha_2224_from_2215.zip
 
